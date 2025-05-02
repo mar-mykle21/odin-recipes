@@ -1,1 +1,1 @@
-# odin-recipes
+Website for recipes, using to learn the workflow of html # odin-recipes
